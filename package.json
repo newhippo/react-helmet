@@ -1,5 +1,5 @@
 {
-  "name": "react-helmet",
+  "name": "@newhippo/react-helmet",
   "description": "A document head manager for React",
   "version": "5.2.0",
   "main": "./lib/Helmet.js",
